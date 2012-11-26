@@ -7,6 +7,7 @@ easy to extend.
 Thanks to Cameron Zemek for his work !
 
 This fork adds some features such as "null pointer" to it.
+Also it is possible to "include" other scripts.
 
 (missing references and credits will follow !)
 
